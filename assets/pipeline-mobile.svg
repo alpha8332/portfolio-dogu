@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 410" role="img" aria-labelledby="t d"><title id="t">DG-4F 수집·학습·실행 흐름</title><desc id="d">핸드 데이터 수집에서 ACT 학습, 체크포인트와 장치 조건 대조를 거쳐 실제 핸드 실행으로 이어진다.</desc>
+<defs><marker id="a" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="6" markerHeight="6" orient="auto"><path d="m0 0 6 3-6 3" fill="none" stroke="#8aa9bb"/></marker></defs><rect width="360" height="410" fill="#14191d"/>
+<g font-family="Malgun Gothic,sans-serif" fill="#e0e8ed"><text x="24" y="30" font-size="11" fill="#9cb0be">DG-4F / LEARNING PIPELINE</text>
+<g fill="#1b242b" stroke="#415362"><rect x="24" y="53" width="312" height="57" rx="2"/><rect x="24" y="139" width="312" height="57" rx="2"/><rect x="24" y="225" width="312" height="57" rx="2"/></g>
+<text x="39" y="77" font-size="15">01  핸드 상태 · 명령 수집</text><text x="65" y="97" font-size="12" fill="#9cb0be">Observation / Action</text>
+<text x="39" y="163" font-size="15">02  ACT 학습</text><text x="65" y="183" font-size="12" fill="#9cb0be">관측과 동작의 입출력 연결</text>
+<text x="39" y="249" font-size="15">03  모델 + 장치 정보 보존</text><text x="65" y="269" font-size="12" fill="#9cb0be">손의 소속 · profile · 관절 수</text>
+<path d="M180 111V132M180 197V218M180 283V304" stroke="#8aa9bb" marker-end="url(#a)"/>
+<rect x="24" y="311" width="312" height="72" rx="2" fill="#21303a" stroke="#7c9bad"/><text x="39" y="338" font-size="15">04  실제 핸드 실행</text><text x="39" y="363" font-size="12" fill="#b1c5d1">장치 조건 대조 → 추론 → 명령 전달</text>
+</g></svg>

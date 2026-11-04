@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+<title id="title">DG-4F 학습과 실행 흐름</title><desc id="desc">관측과 명령을 수집해 ACT 학습과 체크포인트로 연결하고, 추론 시 장치 조건을 대조한 뒤 실제 핸드 명령을 전달한다.</desc>
+<defs><marker id="arrow" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 6 3 0 6" fill="none" stroke="#7f9cad"/></marker></defs>
+<rect width="600" height="360" fill="#14191d"/>
+<g font-family="Inter,Malgun Gothic,sans-serif" fill="#dbe4ea">
+<text x="32" y="35" font-size="10" letter-spacing="1.6" fill="#8c979f">DG-4F / LEARNING PIPELINE</text>
+<g stroke="#253038" fill="none"><path d="M32 50H568M32 310H568"/><path d="M32 72V286M568 72V286" stroke-dasharray="2 6"/></g>
+<text x="47" y="84" font-size="9" letter-spacing="1.5" fill="#8c979f">DATA &amp; TRAINING</text>
+<rect x="48" y="102" width="145" height="76" rx="2" fill="#1b242b" stroke="#415362"/><text x="62" y="124" font-size="9" fill="#8c979f">01 / CAPTURE</text><text x="62" y="148" font-size="15">핸드 상태 · 명령</text><text x="62" y="166" font-size="10" fill="#9cb0be">Observation / Action</text>
+<path d="M194 140H224" stroke="#7f9cad" marker-end="url(#arrow)"/>
+<rect x="229" y="102" width="127" height="76" rx="2" fill="#1b242b" stroke="#415362"/><text x="244" y="124" font-size="9" fill="#8c979f">02 / TRAIN</text><text x="244" y="148" font-size="15">ACT 학습</text><text x="244" y="166" font-size="10" fill="#9cb0be">입출력 구성 연결</text>
+<path d="M357 140H387" stroke="#7f9cad" marker-end="url(#arrow)"/>
+<rect x="392" y="102" width="160" height="76" rx="2" fill="#21303a" stroke="#7c9bad"/><text x="407" y="124" font-size="9" fill="#9cc4dc">03 / CHECKPOINT</text><text x="407" y="148" font-size="15">모델 + 장치 정보</text><text x="407" y="166" font-size="10" fill="#9cb0be">소속 · profile · 관절 수</text>
+<path d="M473 179V208H324V225" stroke="#7f9cad" fill="none" marker-end="url(#arrow)"/>
+<text x="47" y="229" font-size="9" letter-spacing="1.5" fill="#8c979f">INFERENCE</text>
+<rect x="230" y="231" width="170" height="57" rx="2" fill="#1b242b" stroke="#415362"/><text x="246" y="253" font-size="13">현재 장치와 조건 대조</text><text x="246" y="273" font-size="10" fill="#9cb0be">실시간 관측 → 모델 출력</text>
+<path d="M401 260H430" stroke="#7f9cad" marker-end="url(#arrow)"/>
+<rect x="435" y="231" width="117" height="57" rx="2" fill="#21303a" stroke="#7c9bad"/><text x="451" y="253" font-size="13">핸드 실행</text><text x="451" y="273" font-size="10" fill="#9cb0be">관절 / grasp 명령</text>
+<text x="32" y="335" font-size="10" fill="#8c979f">수집한 데이터를 학습과 실제 제어로 연결</text>
+</g></svg>
