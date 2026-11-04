@@ -1,7 +1,7 @@
-# 도구로보틱스 Portfolio
+# Dongchan Shin Portfolio
 
-ROBROS 제출본을 복제하고 도구로보틱스 이력서 PDF만 교체했습니다.
+공용 포트폴리오: https://dongchan-portfolio.me/
 
-배포 주소: https://alpha8332.github.io/portfolio-dogu/
+이력서 PDF는 공개 사이트에 포함하지 않습니다.
 
 GitHub Pages: main 브랜치 루트.

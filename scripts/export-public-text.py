@@ -4,7 +4,7 @@ from html.parser import HTMLParser
 from urllib.parse import urljoin
 import re
 site=Path(__file__).resolve().parents[1]
-origin='https://alpha8332.github.io/portfolio-dogu/'
+origin='https://dongchan-portfolio.me/'
 class Text(HTMLParser):
  def __init__(self,url):super().__init__();self.url=url;self.out=[];self.links=[];self.skip=0
  def handle_starttag(self,tag,attrs):
@@ -26,7 +26,7 @@ class Text(HTMLParser):
  def handle_data(self,data):
   if not self.skip:self.out.append(data)
 paths=['index.html','projects/multi-robot.html','projects/replay.html','projects/kpi.html','projects/imitation.html','projects/youth-policy.html','projects/air-purifier.html','activities/military.html','activities/association.html','activities/hansori.html','activities/work-study.html']
-parts=['# 신동찬 · 도구로보틱스 포트폴리오\n\n공개 웹 포트폴리오의 본문 텍스트입니다.\n\n[포트폴리오 홈]('+origin+')\n']
+parts=['# 신동찬 · 포트폴리오\n\n공개 웹 포트폴리오의 본문 텍스트입니다.\n\n[포트폴리오 홈]('+origin+')\n']
 for name in paths:
  html=(site/name).read_text(encoding='utf-8');main=re.search(r'<main\b[^>]*>(.*?)</main>',html,re.S).group(1)
  parser=Text(urljoin(origin,name));parser.feed(main)

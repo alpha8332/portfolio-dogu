@@ -1,14 +1,14 @@
-# 신동찬 · 도구로보틱스 포트폴리오
+# 신동찬 · 포트폴리오
 
 공개 웹 포트폴리오의 본문 텍스트입니다.
 
-[포트폴리오 홈](https://alpha8332.github.io/portfolio-dogu/)
+[포트폴리오 홈](https://dongchan-portfolio.me/)
 
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/index.html
+원본: https://dongchan-portfolio.me/index.html
 
 ROBOTICS SOFTWARE ENGINEER
 
@@ -21,7 +21,7 @@ ROBOTICS SOFTWARE ENGINEER
 
 텔레오퍼레이션, 로봇 데이터 수집·검증·시각화, 모방학습 학습·추론을 경험했습니다. 수집한 데이터를 실제 로봇과 엔드이펙터의 동작으로 연결하고, 장치와 소프트웨어의 연동을 직접 검증했습니다.
 
-[Journey 둘러보기  ↗ ](https://alpha8332.github.io/portfolio-dogu/index.html#journey) [사용해 본 장비  ↓ ](https://alpha8332.github.io/portfolio-dogu/index.html#equipment)
+[Journey 둘러보기  ↗ ](https://dongchan-portfolio.me/index.html#journey) [사용해 본 장비  ↓ ](https://dongchan-portfolio.me/index.html#equipment)
 
 ## About Me
 
@@ -282,7 +282,7 @@ Project  2026.06.17 ~ 2026.08.27   청년정책알리미  3인 오픈소스 팀 
 - 서비스 구조·API·데이터 계약 설계와 통합
 
 - N+1 개선: 추천 응답 14.845초 → 1.386초
-[청년정책알리미 Case Study ↗](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html)
+[청년정책알리미 Case Study ↗](https://dongchan-portfolio.me/projects/youth-policy.html)
 
 ### 2025
 
@@ -290,27 +290,27 @@ Career  2025.12 ~ 2026.06   Neuromeka  Robotics Software Engineering Intern · P
 
 기존 텔레오퍼레이션·모방학습 플랫폼의 기능 개발과 검증을 수행했습니다.
 
-- [01 · 다중 로봇 지원을 위한 플랫폼 확장 ↗](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html)
+- [01 · 다중 로봇 지원을 위한 플랫폼 확장 ↗](https://dongchan-portfolio.me/projects/multi-robot.html)
 
-- [02 · Replay 기능 개발 및 검증 ↗](https://alpha8332.github.io/portfolio-dogu/projects/replay.html)
+- [02 · Replay 기능 개발 및 검증 ↗](https://dongchan-portfolio.me/projects/replay.html)
 
-- [03 · 양팔 테스트베드 및 KPI 검증 과제 ↗](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html)
+- [03 · 양팔 테스트베드 및 KPI 검증 과제 ↗](https://dongchan-portfolio.me/projects/kpi.html)
 
-- [04 · 모방학습 데이터 개선 및 정책 실행 ↗](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html)
+- [04 · 모방학습 데이터 개선 및 정책 실행 ↗](https://dongchan-portfolio.me/projects/imitation.html)
 
 ### 2024
 
 Activity  2024.01 ~ 2025.07   육군 정보통신 병장 만기제대 · 분대장  통신망 구축·유지보수 · 장애 진단·복구  +
 
 회선 시험, CCTV·통신장비 운용과 RJ45·RJ11 케이블 제작을 담당했습니다. 분대장으로 병력 관리·작업 교육과 인수인계 문서 작성을 수행했습니다.
-[군 복무 활동 자세히 보기 ↗](https://alpha8332.github.io/portfolio-dogu/activities/military.html)
+[군 복무 활동 자세히 보기 ↗](https://dongchan-portfolio.me/activities/military.html)
 
 ### 2023
 
 Project  2023.03 ~ 2023.06   스마트 이동형 공기청정기  졸업작품 · SW 담당  +
 
 C·ATmega128에서 먼지·적외선·초음파 센서 입력을 이동 조건에 연결했습니다. 라인 트레이싱, 팬·LCD·부저와 이동·복귀 동작을 제어했습니다.
-[공기청정기 Case Study ↗](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html)
+[공기청정기 Case Study ↗](https://dongchan-portfolio.me/projects/air-purifier.html)
 
 ### 2022
 
@@ -323,7 +323,7 @@ Award  2022.02   메타버스 공모전 우수상  동아리 부문 · 한국기
 Activity  2021.11 ~ 2022.10   총동아리연합회 · 대외협력국장  운영 문서·연락체계 정비 · 대학 간 교류 추진  +
 
 9개 대학 사례 조사와 3개 대학 간 4회 협의를 바탕으로 교류를 추진했습니다. 학생처와 협의해 추가 예산을 확보했습니다.
-[대외협력 활동 자세히 보기 ↗](https://alpha8332.github.io/portfolio-dogu/activities/association.html)
+[대외협력 활동 자세히 보기 ↗](https://dongchan-portfolio.me/activities/association.html)
 
 ### 2019
 
@@ -369,7 +369,7 @@ Activity  2019.09 ~ 2026.10   근로장학생 · 부서별 이력  한국기술�
 Activity  2019.03 ~ 2025.11   풍물동아리 한소리  회장 재임 2020.11 ~ 2021.11 · 공연 기획·운영  +
 
 집행부 공백에서 조직 운영을 맡고 부원 교육·악보 제작, 온라인·대면 공연과 무대·음향을 운영했습니다. 전체 활동 기간 동안 정기공연 5회, 외부 행사 20회 이상, 농악대회 2회에 참여했습니다.
-[한소리 활동 자세히 보기 ↗](https://alpha8332.github.io/portfolio-dogu/activities/hansori.html)
+[한소리 활동 자세히 보기 ↗](https://dongchan-portfolio.me/activities/hansori.html)
 
 Education  2019.03 ~ 2027.02 졸업예정   한국기술교육대학교  전기전자통신공학부 전기공학전공 · HRD 부전공  +
 
@@ -381,8 +381,6 @@ GET IN TOUCH
 
 편하게 연락 주세요. 커피챗도 좋습니다.
 
-[PDF 이력서 ↗](https://alpha8332.github.io/portfolio-dogu/assets/resume-dogu.pdf?v=20261104)
-
 Email
 [sdc8470@gmail.com  ↗ ](mailto:sdc8470@gmail.com)
 
@@ -392,9 +390,9 @@ Phone
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html
+원본: https://dongchan-portfolio.me/projects/multi-robot.html
 
-[← Work Experience](https://alpha8332.github.io/portfolio-dogu/work-experience.html)  CASE STUDY
+[← Work Experience](https://dongchan-portfolio.me/work-experience.html)  CASE STUDY
 
 01 / MULTI-ROBOT
 
@@ -412,13 +410,13 @@ Neuromeka 인턴 · 2025.12 ~ 2026.06
 참가 목록·식별자 기반의 N대 확장 구조
 
 확인
-전체 조작·정지 경로와 기존 데이터 호환[문제 해결 과정 보기 ↓](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html#background)
+전체 조작·정지 경로와 기존 데이터 호환[문제 해결 과정 보기 ↓](https://dongchan-portfolio.me/projects/multi-robot.html#background)
 
-세션 참가자의 소속을 수집부터 실행까지 연결 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/multi-work-architecture.svg)
-기존 플랫폼에서 확장한 경계를 보여주는 구조도입니다. 화면 선택·세션 참여·로봇별 실행 대상을 구분합니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/multi-work-architecture.svg)
+세션 참가자의 소속을 수집부터 실행까지 연결 [](https://dongchan-portfolio.me/assets/evidence/multi-work-architecture.svg)
+기존 플랫폼에서 확장한 경계를 보여주는 구조도입니다. 화면 선택·세션 참여·로봇별 실행 대상을 구분합니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/multi-work-architecture.svg)
 
 CONTENTS
-[ 01  /  Problem ](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html#background) [ 02  /  Investigation ](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html#investigation) [ 03  /  Architecture ](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html#implementation) [ 04  /  Validation ](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html#validation) [ 05  /  Takeaway ](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html#takeaway)
+[ 01  /  Problem ](https://dongchan-portfolio.me/projects/multi-robot.html#background) [ 02  /  Investigation ](https://dongchan-portfolio.me/projects/multi-robot.html#investigation) [ 03  /  Architecture ](https://dongchan-portfolio.me/projects/multi-robot.html#implementation) [ 04  /  Validation ](https://dongchan-portfolio.me/projects/multi-robot.html#validation) [ 05  /  Takeaway ](https://dongchan-portfolio.me/projects/multi-robot.html#takeaway)
 
 01 / Problem
 
@@ -483,8 +481,8 @@ AFTER
 같은 크기의 데이터도 소속이 다릅니다.
 A와 B의 배열 크기가 같아도 순서가 바뀌면 다른 로봇의 값이 됩니다. 학습에 사용한 key 순서와 차원을 산출물에 남기고, 추론에서도 그 기준으로 출력을 나누어 각 로봇에 전달했습니다.
 
-같은 크기의 배열도, 로봇 소속은 끝까지 유지 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/multi-work-learning.svg)
-선택한 key 순서와 차원으로 데이터를 결합하고, 같은 기준으로 출력을 분해해 각 로봇으로 돌려보내는 흐름입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/multi-work-learning.svg)
+같은 크기의 배열도, 로봇 소속은 끝까지 유지 [](https://dongchan-portfolio.me/assets/evidence/multi-work-learning.svg)
+선택한 key 순서와 차원으로 데이터를 결합하고, 같은 기준으로 출력을 분해해 각 로봇으로 돌려보내는 흐름입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/multi-work-learning.svg)
 
 04 / Validation
 
@@ -515,14 +513,14 @@ ENGINEERING NOTE
 
 이번 경험을 통해 확장성은 새로운 기능을 계속 추가하는 것이 아니라, 새로운 로봇과 작업을 최소한의 변경으로 수용할 수 있는 공통 구조를 만드는 데서 시작한다는 점을 배웠습니다. 앞으로도 당장의 요구사항을 해결하는 데 그치지 않고, 이후의 활용 가능성과 검증 방법까지 고려하며 시스템을 설계하고자 합니다.
 
-[← Work Experience](https://alpha8332.github.io/portfolio-dogu/work-experience.html) [Replay 기능 개발 및 검증 →](https://alpha8332.github.io/portfolio-dogu/projects/replay.html)
+[← Work Experience](https://dongchan-portfolio.me/work-experience.html) [Replay 기능 개발 및 검증 →](https://dongchan-portfolio.me/projects/replay.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/projects/replay.html
+원본: https://dongchan-portfolio.me/projects/replay.html
 
-[← Work Experience](https://alpha8332.github.io/portfolio-dogu/work-experience.html)  CASE STUDY / 02
+[← Work Experience](https://dongchan-portfolio.me/work-experience.html)  CASE STUDY / 02
 
 02 / REAL-ROBOT REPLAY
 
@@ -540,7 +538,7 @@ Neuromeka 인턴 · 2025.12 ~ 2026.06
 같은 초기 목표를 도달까지 유지
 
 검증 범위
-한팔·양팔 로봇 · EIR 동작 확인[문제 해결 과정 보기 ↓](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#role)
+한팔·양팔 로봇 · EIR 동작 확인[문제 해결 과정 보기 ↓](https://dongchan-portfolio.me/projects/replay.html#role)
 
 정상 기능과 비교해 찾은 차이
 수정 전 목표 1회 전송
@@ -554,7 +552,7 @@ Neuromeka 인턴 · 2025.12 ~ 2026.06
 명령 유지 방식의 개념 비교 · 실측 타이밍 그래프 아님
 
 CONTENTS
-[ 01  /  Overview ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#role) [ 02  /  System Flow ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#system) [ 03  /  Case A · Alignment ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#investigation) [ 04  /  Implementation ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#modification) [ 05  /  Case B · Right Arm ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#right-arm-investigation) [ 06  /  Validation ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#validation) [ 07  /  Takeaway ](https://alpha8332.github.io/portfolio-dogu/projects/replay.html#takeaway)
+[ 01  /  Overview ](https://dongchan-portfolio.me/projects/replay.html#role) [ 02  /  System Flow ](https://dongchan-portfolio.me/projects/replay.html#system) [ 03  /  Case A · Alignment ](https://dongchan-portfolio.me/projects/replay.html#investigation) [ 04  /  Implementation ](https://dongchan-portfolio.me/projects/replay.html#modification) [ 05  /  Case B · Right Arm ](https://dongchan-portfolio.me/projects/replay.html#right-arm-investigation) [ 06  /  Validation ](https://dongchan-portfolio.me/projects/replay.html#validation) [ 07  /  Takeaway ](https://dongchan-portfolio.me/projects/replay.html#takeaway)
 
 01 / Overview
 
@@ -764,14 +762,14 @@ Replay를 구현하면서 중요하게 고려한 것은 초기 자세 정렬을 
 
 이번 경험을 통해 기능의 완료 기준을 단순히 ‘동작이 실행되는가’에서 ‘준비·실행·종료가 예측 가능한 순서로 이어지는가’로 확장했습니다. 로봇의 실제 응답을 근거로 초기 상태와 실행 조건을 검증하고, 안전하게 반복할 수 있는 구조를 설계하는 것이 중요하다는 점을 배웠습니다.
 
-[← 다중 로봇 플랫폼 확장](https://alpha8332.github.io/portfolio-dogu/projects/multi-robot.html) [양팔 KPI 검증 →](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html)
+[← 다중 로봇 플랫폼 확장](https://dongchan-portfolio.me/projects/multi-robot.html) [양팔 KPI 검증 →](https://dongchan-portfolio.me/projects/kpi.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/projects/kpi.html
+원본: https://dongchan-portfolio.me/projects/kpi.html
 
-[← Work Experience](https://alpha8332.github.io/portfolio-dogu/work-experience.html)  CASE STUDY
+[← Work Experience](https://dongchan-portfolio.me/work-experience.html)  CASE STUDY
 
 03 / DUAL-ARM KPI
 
@@ -790,16 +788,16 @@ Neuromeka 인턴 · 2025.12 ~ 2026.06
 
 KPI 달성 · RMSE
 동기 0.615 mm / 기준 1 mm
-지연 X 46.675 · Z 47.694 ms / 기준 50 ms[실제 측정 그래프 보기 ↓](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#measured-logs)
+지연 X 46.675 · Z 47.694 ms / 기준 50 ms[실제 측정 그래프 보기 ↓](https://dongchan-portfolio.me/projects/kpi.html#measured-logs)
 
 시험 · 양팔 실제 궤적과 목표 궤적
 
 왼팔
-[](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-sync-left.png)
+[](https://dongchan-portfolio.me/assets/evidence/kpi-final-sync-left.png)
 
 오른팔
-[](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-sync-right.png)
-KPI 슬라이드 1의 원본 그래프 · [원본 슬라이드 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-slide-1.png)
+[](https://dongchan-portfolio.me/assets/evidence/kpi-final-sync-right.png)
+KPI 슬라이드 1의 원본 그래프 · [원본 슬라이드 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-slide-1.png)
 
 KPI TEST · RESULTS
 
@@ -833,30 +831,30 @@ KPI TEST · MEASUREMENT
 
 ## 반복 시험과 실제 움직임으로 확인
 
-동기 시험 · 20회 측정 그래프 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-sync-trials.png)
-보고서 슬라이드 1의 동기 RMSE 그래프입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-sync-trials.png)
+동기 시험 · 20회 측정 그래프 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-sync-trials.png)
+보고서 슬라이드 1의 동기 RMSE 그래프입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-sync-trials.png)
 
-X축 추종 지연 · 반복 시험 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-latency-x-trials.png)
-보고서 슬라이드 2의 X축 지연과 50 ms 기준선입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-latency-x-trials.png)
-Z축 추종 지연 · 반복 시험 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-latency-z-trials.png)
-보고서 슬라이드 2의 Z축 지연과 50 ms 기준선입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-latency-z-trials.png)
+X축 추종 지연 · 반복 시험 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-latency-x-trials.png)
+보고서 슬라이드 2의 X축 지연과 50 ms 기준선입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-latency-x-trials.png)
+Z축 추종 지연 · 반복 시험 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-latency-z-trials.png)
+보고서 슬라이드 2의 Z축 지연과 50 ms 기준선입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-latency-z-trials.png)
 
 ### 두 팔 사이의 시간 차는 확대해서 비교했습니다.
 
-X축 · 같은 동작 구간을 확대 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-zoom-x.png)
-두 팔의 실제 위치 파형과 대응 지점의 시각 차를 비교한 원본 그래프입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-zoom-x.png)
-Z축 · 같은 동작 구간을 확대 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-zoom-z.png)
-Z축에서도 위치 파형의 시각 차를 확인했습니다. 원본 그래프의 수치와 축을 유지했습니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-zoom-z.png)
+X축 · 같은 동작 구간을 확대 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-zoom-x.png)
+두 팔의 실제 위치 파형과 대응 지점의 시각 차를 비교한 원본 그래프입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-zoom-x.png)
+Z축 · 같은 동작 구간을 확대 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-zoom-z.png)
+Z축에서도 위치 파형의 시각 차를 확인했습니다. 원본 그래프의 수치와 축을 유지했습니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-zoom-z.png)
 실제 X·Z 위치 파형 더 보기
 
-X축 실제 위치 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-position-x.png)
-슬라이드 2의 Master·Slave 위치 파형입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-position-x.png)
-Z축 실제 위치 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-position-z.png)
-슬라이드 2의 Master·Slave 위치 파형입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-position-z.png)
-자료: KPI 슬라이드 1·2 · [동기 시험 원본 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-slide-1.png)  · [지연 시험 원본 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-final-slide-2.png)
+X축 실제 위치 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-position-x.png)
+슬라이드 2의 Master·Slave 위치 파형입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-position-x.png)
+Z축 실제 위치 [](https://dongchan-portfolio.me/assets/evidence/kpi-final-position-z.png)
+슬라이드 2의 Master·Slave 위치 파형입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-position-z.png)
+자료: KPI 슬라이드 1·2 · [동기 시험 원본 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-slide-1.png)  · [지연 시험 원본 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-final-slide-2.png)
 
 CONTENTS
-[ 01  /  Test Goal ](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#background) [ 02  /  Decision ](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#investigation) [ 03  /  Measurement ](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#implementation) [ 04  /  Results ](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#validation) [ 05  /  Takeaway ](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#takeaway)
+[ 01  /  Test Goal ](https://dongchan-portfolio.me/projects/kpi.html#background) [ 02  /  Decision ](https://dongchan-portfolio.me/projects/kpi.html#investigation) [ 03  /  Measurement ](https://dongchan-portfolio.me/projects/kpi.html#implementation) [ 04  /  Results ](https://dongchan-portfolio.me/projects/kpi.html#validation) [ 05  /  Takeaway ](https://dongchan-portfolio.me/projects/kpi.html#takeaway)
 
 01 / Test Goal
 
@@ -899,8 +897,8 @@ AFTER
 
 동기 시험은 공통 원궤적을 두 팔에 전달하고 실제 TCP 위치를 기록했습니다. 각 팔의 시작 위치를 뺀 뒤 두 움직임의 차이로 동기 오차를 계산했습니다. 한 팔의 actual과 controller desired 사이 오차는 별도로 확인했습니다.
 
-동기 오차를 확인한 과정 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-sync-pipeline.svg)
-공통 원궤적 → 양팔 실제 위치 기록 → 초기 위치 차이 제거 → 상대변위 오차 계산. 개별 목표 추종과 양팔 동기를 나누어 봅니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/kpi-sync-pipeline.svg)
+동기 오차를 확인한 과정 [](https://dongchan-portfolio.me/assets/evidence/kpi-sync-pipeline.svg)
+공통 원궤적 → 양팔 실제 위치 기록 → 초기 위치 차이 제거 → 상대변위 오차 계산. 개별 목표 추종과 양팔 동기를 나누어 봅니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/kpi-sync-pipeline.svg)
 Master–Slave 시험에서는 Master의 실제 움직임을 읽어 Slave 목표를 만드는 경로와 선행 보상을 다뤘습니다. 명령을 보낸 시각 차이가 실제 로봇의 추종 지연을 대신하지 않도록, 두 팔의 실제 위치 파형에서 대응하는 지점의 시각을 비교했습니다.
 
 -  동일한 반복 운동의 위치를 기록
@@ -921,7 +919,7 @@ D405·D435IF의 USB 포트·허브·케이블·영상 조건을 시험해 수집
 
 보고서에서 동기 RMSE는 0.615 mm, 추종 지연 RMSE는 X축 46.675 ms · Z축 47.694 ms로 정리했습니다. 동기 오차와 시간 지연을 나누어 측정하고 각 KPI 기준의 달성을 확인했습니다.
 
-[KPI 결과 그래프 보기 ↑](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#results-overview)  · [실제 측정 그래프 보기 ↑](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html#measured-logs)
+[KPI 결과 그래프 보기 ↑](https://dongchan-portfolio.me/projects/kpi.html#results-overview)  · [실제 측정 그래프 보기 ↑](https://dongchan-portfolio.me/projects/kpi.html#measured-logs)
 
 Measurement Notes · 보고 자료
 표시 수치는 KPI 슬라이드 1·2의 RMSE와 MEAN입니다. 그래프는 같은 PowerPoint 원본에 포함된 이미지를 사용했습니다.
@@ -936,14 +934,14 @@ ENGINEERING NOTE
 
 또한 그래프를 직접 살펴보며 평균이나 RMSE 같은 요약 수치와 실제 동작을 함께 읽는 습관의 필요성을 느꼈습니다. 위치 파형과 궤적을 함께 확인하면 어느 축과 구간을 더 점검할지 구체화할 수 있었습니다. 카메라의 연결·영상 조건과 TCP 기반 성능 측정을 구분한 경험 역시, 시험 환경의 안정성과 평가 지표의 타당성을 각각 확인해야 한다는 기준으로 이어졌습니다. 앞으로도 요구 성능에 맞는 측정 방법을 먼저 정하고, 좌표 기준·시간 정보·시험 조건을 함께 정리해 다른 사람도 같은 근거로 결과를 재확인할 수 있도록 검증하겠습니다.
 
-[← Replay 기능 개발 및 검증](https://alpha8332.github.io/portfolio-dogu/projects/replay.html) [모방학습 정책 실행 →](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html)
+[← Replay 기능 개발 및 검증](https://dongchan-portfolio.me/projects/replay.html) [모방학습 정책 실행 →](https://dongchan-portfolio.me/projects/imitation.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/projects/imitation.html
+원본: https://dongchan-portfolio.me/projects/imitation.html
 
-[← Work Experience](https://alpha8332.github.io/portfolio-dogu/work-experience.html)  CASE STUDY
+[← Work Experience](https://dongchan-portfolio.me/work-experience.html)  CASE STUDY
 
 04 / IMITATION LEARNING
 
@@ -961,7 +959,7 @@ v3에서 바꾼 것
 80개 기본 조건 + 20회 추가 반복 · 총 100회 수집
 
 v3 학습·실행 결과
-Loss 0.0037 · 실로봇 성공률 90%[문제 해결 과정 보기 ↓](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html#background)
+Loss 0.0037 · 실로봇 성공률 90%[문제 해결 과정 보기 ↓](https://dongchan-portfolio.me/projects/imitation.html#background)
 
 위치 후보  트레이
 v3 수집 조건을 나눈 바나나 위치 후보와 트레이 배치
@@ -980,7 +978,7 @@ v3 · 100회 조건을 나누고 취약 조합 보강
 학습 Loss 0.0037 · 작업 영역 내 실로봇 성공률 90%
 
 CONTENTS
-[ 01  /  v1 Baseline ](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html#background) [ 02  /  v2 Findings ](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html#investigation) [ 03  /  v3 Design ](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html#implementation) [ 04  /  v3 Results ](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html#validation) [ 05  /  Takeaway ](https://alpha8332.github.io/portfolio-dogu/projects/imitation.html#takeaway)
+[ 01  /  v1 Baseline ](https://dongchan-portfolio.me/projects/imitation.html#background) [ 02  /  v2 Findings ](https://dongchan-portfolio.me/projects/imitation.html#investigation) [ 03  /  v3 Design ](https://dongchan-portfolio.me/projects/imitation.html#implementation) [ 04  /  v3 Results ](https://dongchan-portfolio.me/projects/imitation.html#validation) [ 05  /  Takeaway ](https://dongchan-portfolio.me/projects/imitation.html#takeaway)
 
 01 / v1 Baseline
 
@@ -992,8 +990,8 @@ CONTENTS
 
 성공하는 경우도 있었지만 실패가 반복됐고, 성공한 동작도 매끄럽지 않았습니다. 이 결과를 출발점으로 삼아, v2에서는 바나나의 위치와 자세에 변화를 주며 수집 범위를 넓혔습니다.
 
-무엇을 보고, 어느 팔로 조작했는가 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/experiment-task-geometry.svg?v=il-v1-v3-20261030)
-누리 양팔·2지 그리퍼·손목 카메라 2개로 교시하고, 실제 파지·이동·배치 동작을 확인했습니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/experiment-task-geometry.svg?v=il-v1-v3-20261030) 제가 직접 수행한 범위
+무엇을 보고, 어느 팔로 조작했는가 [](https://dongchan-portfolio.me/assets/evidence/experiment-task-geometry.svg?v=il-v1-v3-20261030)
+누리 양팔·2지 그리퍼·손목 카메라 2개로 교시하고, 실제 파지·이동·배치 동작을 확인했습니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/experiment-task-geometry.svg?v=il-v1-v3-20261030) 제가 직접 수행한 범위
 작업 조건 설정, 교시, 데이터 선별·검증, ACT 학습·추론, 실로봇 실행과 결과 분석을 수행했습니다.
 
 02 / v2 Findings
@@ -1046,8 +1044,8 @@ v3 · 개선 방향
 
 트레이와 바나나의 위치를 구분하고, 자세를 수평·수직·좌측 대각·우측 대각의 네 가지로 나누었습니다. 조합별로 수집 여부를 확인해 빈 조건을 채우고, 파지가 어려웠던 위치·자세는 더 반복했습니다.
 
-v3 · 위치와 자세를 나누어 수집한 기록 [](https://alpha8332.github.io/portfolio-dogu/assets/evidence/experiment-condition-coverage.svg?v=il-v1-v3-20261030)
-트레이·바나나 위치와 자세를 조합하고, 취약 조건의 반복을 더해 총 100회 교시했습니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/experiment-condition-coverage.svg?v=il-v1-v3-20261030)
+v3 · 위치와 자세를 나누어 수집한 기록 [](https://dongchan-portfolio.me/assets/evidence/experiment-condition-coverage.svg?v=il-v1-v3-20261030)
+트레이·바나나 위치와 자세를 조합하고, 취약 조건의 반복을 더해 총 100회 교시했습니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/experiment-condition-coverage.svg?v=il-v1-v3-20261030)
 -  시야에 물체와 목적지를 함께 담기
 트레이 위치를 바꾸어도 카메라에 바나나와 트레이가 함께 들어오는지 확인했습니다. 조작 중에는 손목 영상을 보며 가림을 점검했습니다.
 
@@ -1099,14 +1097,14 @@ v3에서는 학습 Loss 0.0037과 실로봇 작업 성공률 90%를 기록했습
 
 이번 경험을 통해 데이터 수집은 단순히 로봇의 동작을 기록하는 과정이 아니라, 로봇이 학습해야 할 경험을 설계하는 과정이라는 점을 배웠습니다.
 
-[← 양팔 KPI 검증](https://alpha8332.github.io/portfolio-dogu/projects/kpi.html) [Journey →](https://alpha8332.github.io/portfolio-dogu/index.html#journey)
+[← 양팔 KPI 검증](https://dongchan-portfolio.me/projects/kpi.html) [Journey →](https://dongchan-portfolio.me/index.html#journey)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html
+원본: https://dongchan-portfolio.me/projects/youth-policy.html
 
-[← Projects](https://alpha8332.github.io/portfolio-dogu/projects.html)  CASE STUDY
+[← Projects](https://dongchan-portfolio.me/projects.html)  CASE STUDY
 
 01 / 청년정책알리미
 
@@ -1126,7 +1124,7 @@ v3에서는 학습 Loss 0.0037과 실로봇 작업 성공률 90%를 기록했습
 
 핵심 개선
 지역 조건 N+1 조회 → 일괄 조회
-추천 응답 14.845초 → 1.386초[문제 해결 과정 보기 ↓](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html#background)
+추천 응답 14.845초 → 1.386초[문제 해결 과정 보기 ↓](https://dongchan-portfolio.me/projects/youth-policy.html#background)
 
 MEASURED RESPONSE TIME
 
@@ -1143,7 +1141,7 @@ MEASURED RESPONSE TIME
 측정 당시 개발 DB 3,273건 · 대구광역시·25세 조건
 
 CONTENTS
-[ 01  /  Background ](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html#background) [ 02  /  Data Contract ](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html#data-contract) [ 03  /  Query Improvement ](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html#query-improvement) [ 04  /  Delivery & Validation ](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html#delivery) [ 05  /  Takeaway ](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html#takeaway)
+[ 01  /  Background ](https://dongchan-portfolio.me/projects/youth-policy.html#background) [ 02  /  Data Contract ](https://dongchan-portfolio.me/projects/youth-policy.html#data-contract) [ 03  /  Query Improvement ](https://dongchan-portfolio.me/projects/youth-policy.html#query-improvement) [ 04  /  Delivery & Validation ](https://dongchan-portfolio.me/projects/youth-policy.html#delivery) [ 05  /  Takeaway ](https://dongchan-portfolio.me/projects/youth-policy.html#takeaway)
 
 01 / Background
 
@@ -1153,8 +1151,8 @@ CONTENTS
 
 저는 팀장·데이터파트로서 공통 스키마와 API·데이터 계약을 정하고, 담당자별 결과물을 DB–API–화면으로 연결해 확인했습니다. 팀원 간 역할을 나누고 Git PR 검토와 통합·실행 검증을 함께 진행했습니다.
 
-원문부터 화면까지, 정책의 의미를 같은 기준으로 유지[](https://alpha8332.github.io/portfolio-dogu/assets/evidence/youth-data-flow.svg)
-데이터파트와 팀 통합에서 다룬 처리 흐름을 요약한 개념도입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/youth-data-flow.svg)
+원문부터 화면까지, 정책의 의미를 같은 기준으로 유지[](https://dongchan-portfolio.me/assets/evidence/youth-data-flow.svg)
+데이터파트와 팀 통합에서 다룬 처리 흐름을 요약한 개념도입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/youth-data-flow.svg)
 
 02 / Data Contract
 
@@ -1243,14 +1241,14 @@ ENGINEERING NOTE
 
 이 경험을 통해 느린 응답을 만났을 때 반복되는 작업과 조회 위치를 구체적으로 확인하는 관점을 얻었습니다. 평가 범위를 유지하며 데이터 접근 방식을 바꾼 과정이 특히 의미 있었습니다. 앞으로도 같은 입력에서 판정 결과와 응답 시간을 함께 비교하고, DB 조회 횟수를 기록해 병목을 구체적인 실행 경로로 설명하고 검증하겠습니다.
 
-[← Projects](https://alpha8332.github.io/portfolio-dogu/projects.html) [스마트 이동형 공기청정기 →](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html)
+[← Projects](https://dongchan-portfolio.me/projects.html) [스마트 이동형 공기청정기 →](https://dongchan-portfolio.me/projects/air-purifier.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html
+원본: https://dongchan-portfolio.me/projects/air-purifier.html
 
-[← Projects](https://alpha8332.github.io/portfolio-dogu/projects.html)  CASE STUDY
+[← Projects](https://dongchan-portfolio.me/projects.html)  CASE STUDY
 
 02 / 스마트 이동형 공기청정기
 
@@ -1268,7 +1266,7 @@ ENGINEERING NOTE
 먼지·적외선 입력 / 라인 트레이싱 / 팬·LCD / 복귀
 
 실기 확인
-이동 거리·회전 조정 / 초음파 장애물 감지 시 정지·부저[문제 해결 과정 보기 ↓](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html#background)
+이동 거리·회전 조정 / 초음파 장애물 감지 시 정지·부저[문제 해결 과정 보기 ↓](https://dongchan-portfolio.me/projects/air-purifier.html#background)
 
 CONTROL SCENARIO
 
@@ -1286,7 +1284,7 @@ CONTROL SCENARIO
 구현한 동작 순서와 장애물 대응의 개념도
 
 CONTENTS
-[ 01  /  Background ](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html#background) [ 02  /  Control Flow ](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html#control-flow) [ 03  /  On-Robot Tuning ](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html#tuning) [ 04  /  Validation ](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html#validation) [ 05  /  Takeaway ](https://alpha8332.github.io/portfolio-dogu/projects/air-purifier.html#takeaway)
+[ 01  /  Background ](https://dongchan-portfolio.me/projects/air-purifier.html#background) [ 02  /  Control Flow ](https://dongchan-portfolio.me/projects/air-purifier.html#control-flow) [ 03  /  On-Robot Tuning ](https://dongchan-portfolio.me/projects/air-purifier.html#tuning) [ 04  /  Validation ](https://dongchan-portfolio.me/projects/air-purifier.html#validation) [ 05  /  Takeaway ](https://dongchan-portfolio.me/projects/air-purifier.html#takeaway)
 
 01 / Background
 
@@ -1302,8 +1300,8 @@ CONTENTS
 
 먼지 센서 임계값과 적외선 신호를 구역 이동 조건으로 활용했습니다. 라인 트레이싱으로 해당 구역에 이동하고, 팬 작동과 LCD 표시를 제어한 뒤 복귀하는 순서를 연결했습니다.
 
-동작 순서와 주행 중 장애물 대응[](https://alpha8332.github.io/portfolio-dogu/assets/evidence/air-control-flow.svg)
-센서 입력·동작 순서·정지 경로를 요약한 개념도입니다. · [크게 보기 ↗](https://alpha8332.github.io/portfolio-dogu/assets/evidence/air-control-flow.svg)
+동작 순서와 주행 중 장애물 대응[](https://dongchan-portfolio.me/assets/evidence/air-control-flow.svg)
+센서 입력·동작 순서·정지 경로를 요약한 개념도입니다. · [크게 보기 ↗](https://dongchan-portfolio.me/assets/evidence/air-control-flow.svg)
 
 입력·장치  제어에서 맡은 역할
 
@@ -1372,14 +1370,14 @@ ENGINEERING NOTE
 
 앞으로는 주행 조건별 이동 거리와 회전 오차를 기록하고 반복 시험으로 조정의 효과를 확인하고 싶습니다. 바닥이나 조명 등 조건을 하나씩 바꾸어 센서 입력과 주행의 변화를 살펴보고, 장애물 정지 뒤 재개 조건도 검토하겠습니다. 실제 장치의 응답을 근거로 동작 조건을 설명하고 검증할 수 있는 제어 소프트웨어를 설계하겠습니다.
 
-[← 청년정책알리미](https://alpha8332.github.io/portfolio-dogu/projects/youth-policy.html) [Projects →](https://alpha8332.github.io/portfolio-dogu/projects.html)
+[← 청년정책알리미](https://dongchan-portfolio.me/projects/youth-policy.html) [Projects →](https://dongchan-portfolio.me/projects.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/activities/military.html
+원본: https://dongchan-portfolio.me/activities/military.html
 
-[← Activities](https://alpha8332.github.io/portfolio-dogu/activities.html)  MILITARY SERVICE
+[← Activities](https://dongchan-portfolio.me/activities.html)  MILITARY SERVICE
 
 MILITARY SERVICE
 
@@ -1431,14 +1429,14 @@ FACILITY MAINTENANCE
 
 - 지휘통제실 통신설비 공사 지원
 
-[← Activities](https://alpha8332.github.io/portfolio-dogu/activities.html) [총동아리연합회 →](https://alpha8332.github.io/portfolio-dogu/activities/association.html)
+[← Activities](https://dongchan-portfolio.me/activities.html) [총동아리연합회 →](https://dongchan-portfolio.me/activities/association.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/activities/association.html
+원본: https://dongchan-portfolio.me/activities/association.html
 
-[← Activities](https://alpha8332.github.io/portfolio-dogu/activities.html)  STUDENT ASSOCIATION
+[← Activities](https://dongchan-portfolio.me/activities.html)  STUDENT ASSOCIATION
 
 제29대 총동아리연합회 · 푸름
 
@@ -1505,25 +1503,25 @@ VOLUNTEERING & FESTIVAL
 
 회의 · 답사 · 행사 홍보
 
-[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/association-exchange-agenda.png)
+[ ↗ ](https://dongchan-portfolio.me/assets/activities/association-exchange-agenda.png)
 천안권 동아리 연합 회의 자료 · 2022.08.22
-[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/association-spring-survey.png)
+[ ↗ ](https://dongchan-portfolio.me/assets/activities/association-spring-survey.png)
 봄 나들이 답사 보고서 · 2022.04.02
-[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/association-autumn-poster.png)
+[ ↗ ](https://dongchan-portfolio.me/assets/activities/association-autumn-poster.png)
 가을 나들이 홍보물
-[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/association-rural-survey.jpg)
+[ ↗ ](https://dongchan-portfolio.me/assets/activities/association-rural-survey.jpg)
 농촌봉사활동 장소 조사
 
 닫기 ×
 
-[← 군 복무](https://alpha8332.github.io/portfolio-dogu/activities/military.html) [풍물동아리 한소리 →](https://alpha8332.github.io/portfolio-dogu/activities/hansori.html)
+[← 군 복무](https://dongchan-portfolio.me/activities/military.html) [풍물동아리 한소리 →](https://dongchan-portfolio.me/activities/hansori.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/activities/hansori.html
+원본: https://dongchan-portfolio.me/activities/hansori.html
 
-[← Activities](https://alpha8332.github.io/portfolio-dogu/activities.html)  CLUB & PERFORMANCE
+[← Activities](https://dongchan-portfolio.me/activities.html)  CLUB & PERFORMANCE
 
 한소리 · 연주·교육·공연 운영
 
@@ -1576,20 +1574,20 @@ PRESIDENT · 2020.11 ~ 2021.11
 
 공연 · 포스터 · 교육
 
-[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/hansori-performance-2025.png)
-2025 정기공연[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/hansori-persona-poster.jpg)
-정기공연 〈페르소나〉 · 2021[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/hansori-samulnori-2023.png)
-2023 사물놀이 공연[ ↗ ](https://alpha8332.github.io/portfolio-dogu/assets/activities/hansori-teaching.png)
+[ ↗ ](https://dongchan-portfolio.me/assets/activities/hansori-performance-2025.png)
+2025 정기공연[ ↗ ](https://dongchan-portfolio.me/assets/activities/hansori-persona-poster.jpg)
+정기공연 〈페르소나〉 · 2021[ ↗ ](https://dongchan-portfolio.me/assets/activities/hansori-samulnori-2023.png)
+2023 사물놀이 공연[ ↗ ](https://dongchan-portfolio.me/assets/activities/hansori-teaching.png)
 직접 만든 꽹과리 기초 교재
 
-[← 총동아리연합회](https://alpha8332.github.io/portfolio-dogu/activities/association.html) [근로장학생 · 부서별 이력 →](https://alpha8332.github.io/portfolio-dogu/activities/work-study.html)
+[← 총동아리연합회](https://dongchan-portfolio.me/activities/association.html) [근로장학생 · 부서별 이력 →](https://dongchan-portfolio.me/activities/work-study.html)
 
 
 ---
 
-원본: https://alpha8332.github.io/portfolio-dogu/activities/work-study.html
+원본: https://dongchan-portfolio.me/activities/work-study.html
 
-[← Activities](https://alpha8332.github.io/portfolio-dogu/activities.html)  ACTIVITY RECORD
+[← Activities](https://dongchan-portfolio.me/activities.html)  ACTIVITY RECORD
 
 PART-TIME JOB
 
@@ -1609,7 +1607,7 @@ PART-TIME JOB
 행정·교육 운영·자료·콘텐츠 검수
 
 CONTENTS
-[ 01  /  근로 업무 ](https://alpha8332.github.io/portfolio-dogu/activities/work-study.html#overview) [ 02  /  부서별 근로 기록 ](https://alpha8332.github.io/portfolio-dogu/activities/work-study.html#departments)
+[ 01  /  근로 업무 ](https://dongchan-portfolio.me/activities/work-study.html#overview) [ 02  /  부서별 근로 기록 ](https://dongchan-portfolio.me/activities/work-study.html#departments)
 
 01 / 근로 업무
 
@@ -1658,4 +1656,4 @@ CONTENTS
 2021.04 ~ 06 / 2020.06 ~ 07
 학사팀 · 온라인 시험 감독 및 행정 지원
 
-[← 풍물동아리 한소리](https://alpha8332.github.io/portfolio-dogu/activities/hansori.html) [Activities →](https://alpha8332.github.io/portfolio-dogu/activities.html)
+[← 풍물동아리 한소리](https://dongchan-portfolio.me/activities/hansori.html) [Activities →](https://dongchan-portfolio.me/activities.html)
