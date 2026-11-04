@@ -1,0 +1,74 @@
+# Dongchan Shin — Robotics Software Engineer
+
+> Public portfolio and work archive. Korean technical reports on robot integration, teleoperation, imitation learning and real-robot validation.
+
+HTML pages contain the report text without login or JavaScript execution. Each Markdown file is a text representation of its linked public HTML page; figures and media remain in HTML.
+
+## Start here
+
+- [Portfolio](https://dongchan-portfolio.me/)
+- [Neuromeka work archive](https://dongchan-portfolio.me/archive/career/neuromeka/index.html)
+- [Reading index](https://dongchan-portfolio.me/reading.html)
+
+## Page texts
+
+- [Career · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/index.md): 회사에서 맡은 역할과 수행한 업무, 문제를 해결하며 쌓은 경험을 기록합니다.
+- [기업·연구 지원 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/applied-support/customer-support.md): 삼성SDI 실행 조건 정리, KAIST 모델의 16D rotvec 출력 계약과 로봇 명령 연동.
+- [기타 과제·연구 지원 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/applied-support/index.md): 두 로봇의 내부 운영 준비와 기업·연구의 실행 환경·모델 계약 지원.
+- [한전 과제 적용 준비 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/applied-support/kepco.md): Indy12 두 대의 소유권·session·수집·검사·학습 준비를 연결한 내부 운영 매뉴얼.
+- [모방학습 실험 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/experiments/index.md): 개인 실험·Samsung SDI·SCDP의 수집 조건과 학습·실행 관찰을 탐색합니다.
+- [개인 실험 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/experiments/personal/index.md): 바나나 버전별 수집, Handover와 양팔 배치, 카메라 조건 변화에 따른 실행 관찰.
+- [삼성SDI · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/experiments/samsung-sdi/index.md): 병의 지지·뚜껑 축 정렬·회전 교시와 접근 이후 구간을 나눈 학습 시도.
+- [KAIST / SCDP · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/experiments/scdp/index.md): 연구용 demonstration 수집과 카메라·관절 정보 전달, 별도 학습 모델 rollout 연동.
+- [NeuroMeka · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/index.md): 모방학습 플랫폼 개발·운영, 로봇자동화 과제 지원과 제품 릴리즈 테스트.
+- [Diffusion Policy 연동 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/diffusion.md): Diffusion Policy를 기존 모델 선택·학습·checkpoint·실행 구조에 통합했습니다.
+- [기술 문서화·인수인계 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/documentation.md): 기존 시스템을 이해한 내용을 온보딩·아키텍처·운영·진단 문서로 정리하고 전달했습니다.
+- [외부 모델 실행 연동 — SCDP · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/external-model.md): 연구팀의 SCDP 모델을 MiMicX에서 실행: 16D rotvec adapter·입출력 계약·좌표 변환과 실로봇 확인.
+- [MiMicX 플랫폼 개발 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/index.md): MiMicX의 기능 확장·통합·안정화. 전체 흐름과 14개 개발 주제를 살펴봅니다.
+- [독립 다중 로봇 지원 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/multi-robot.md): 독립된 Indy12 두 대의 session·소유권·raw schema를 설계하고 수집·학습·추론·시각화·Replay까지 연결했습니다.
+- [플랫폼 개요 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/platform.md): 장치·session·수집·전처리·학습·배포의 전체 구조와 상태 소유권, 데이터·모델 계약을 설명합니다.
+- [Dataset QA · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/qa.md): 선택한 episode의 저장·시각화·학습 입력을 대조하는 내부 Dataset QA Checklist를 개발했습니다.
+- [런타임 로그·실행 상태 진단 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/runtime-log.md): 제어 경로의 회귀를 피하면서 로그 기록과 운영 화면의 표시 원천을 정리했습니다.
+- [ACT Temporal Ensembling · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/te.md): ACT 추론에서 겹치는 action chunk를 처리하는 Temporal Ensembling을 런타임에 연결했습니다.
+- [안정화·문제해결 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/troubleshooting.md): 장치·데이터·학습·실행의 오류를 아홉 분야로 나눠 원인 추적, 수정 과정과 회귀 검사를 설명합니다.
+- [Linux Vive Tracking · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/vive.md): 독립 Vive 입력 수집·시각화와 MiMicX calibration 피드백을 구분해 설명합니다.
+- [XR 컨트롤러 응용 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/mimicx/xr.md): Quest/Pico의 pose 조작에 축 매핑 조그·analog 그리퍼·버튼 기반 수집과 모드 전환을 연결했습니다.
+- [시연 지원 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/demo-support.md): 과제 요구를 Replay 구현·장비 준비·양팔과 EE 검증으로 연결하고, 내부 테스트베드에서 고객·그룹장·동료의 실물 검토와 승인을 지원했습니다.
+- [POSCO 톤백 자동화 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/index.md): 톤백 양팔 자동화의 시스템 구성, 비전 테스트베드, KPI 측정·결과, Replay 적용과 평가·시연 지원 기록.
+- [성능 평가 · KPI · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/kpi/index.md): 양팔 동기 오차와 Master–Slave 제어 지연을 분리해 평가한 원리·구현·재시험 결과.
+- [Master–Slave 제어 지연 평가 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/kpi/latency.md): Actual follower의 watcher·relay·preview, 위상 기반 지연 계산과 20회 반복 결과.
+- [양팔 동기 오차 평가 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/kpi/synchronization.md): 공통 원궤적 입력, pdes tracking과 상대변위 sync, 좌표 정렬 방식의 변경 및 반복 시험 결과.
+- [Replay 기능 개발 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/tonbag-replay.md): 공통 Replay·Safe Logic 개발 문서로 이동합니다. 톤백 고유 적용 기록은 과제 개요에서 확인할 수 있습니다.
+- [사용성 평가 지원 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/usability-support.md): Vive·PIKA의 Time/Trial 기록과 SpaceMouse 9회 조건 기록을 바탕으로 참가자 안내·장비 세팅·측정·오류 대응 과정을 설명합니다.
+- [비전 테스트베드 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/posco/vision.md): 다중 RealSense 테스트베드의 1~4차 시험과 대역폭·전송선로 분석을 바탕으로 VR용 A–C·LS전선 High-Flex 케이블을 직접 선정해 과제 카메라 연결에 적용했습니다.
+- [제품 릴리즈 검증 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/release-testing/index.md): 실제 로봇 제품 QA와 검사 기록 Web UI의 설계·개발·팀 사용 기록.
+- [제품 릴리즈 QA · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/release-testing/product-qa.md): 약 1,200개 규모의 통합 릴리즈 검사: 시험 조건·정상 결과·미진행 사유·제품 이상을 구분해 전달.
+- [릴리즈 검사 Web UI · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/release-testing/release-ui.md): Excel 기준 시트의 의미를 보존하며 항목 탐색·판정·사유·장비 선택을 기록하는 팀용 Web UI.
+- [장치별 동작 원리 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/device-operation.md): 장치별 입력·활성화·좌표 해석·target 생성 원리를 탐색합니다.
+- [Manus Glove · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/devices/manus.md): 사람 손 skeleton을 로봇 핸드 관절 목표로 변환하는 retargeting 경로.
+- [Pico · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/devices/pico.md): OpenXR pose와 interaction profile·digital fallback의 차이.
+- [Meta Quest · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/devices/quest.md): OpenXR pose와 squeeze·trigger·thumbstick·button의 결합.
+- [SpaceMouse · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/devices/spacemouse.md): 6축 입력을 속도로 해석하고 적분해 로봇 target을 만드는 원리.
+- [Vive Controller · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/devices/vive-controller.md): Trigger clutch와 상대 pose, 버튼·calibration의 역할.
+- [Vive Tracker · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/devices/vive-tracker.md): 버튼 없는 pose 입력과 명시적 활성화·reference 재설정.
+- [Teleoperation · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/index.md): 장치별 동작 원리와 실제 로봇 조작·시연 경험을 나눠 정리합니다.
+- [조작·시연 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/career/neuromeka/teleoperation/operation/index.md): 로봇 구성·역할 분담·접촉과 파지의 조작 경험, 아홉 가지 시연 목차를 정리합니다.
+- [University Club Association · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/growth/association.md): 총동아리연합회에서 여러 조직의 요구와 운영 조건을 조율했습니다.
+- [Campus Work & Mentoring · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/growth/campus.md): 교내 여러 부서의 근로와 외국인 학생 튜터링을 경험했습니다.
+- [Pungmul Club · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/growth/club.md): 풍물동아리 운영에서 행사·예산·협업을 경험했습니다.
+- [Experiences & Growth · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/growth/index.md): 조직을 운영하고 사람들과 함께 일하며 배운 경험.
+- [NeuroMeka Internship · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/growth/intern-growth.md): 모르는 범위를 드러내고 질문하며, 구현 결과를 직접 확인하는 방식으로 일하는 법을 배웠습니다.
+- [Military Service · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/growth/military.md): 군 복무 중 설비 작업과 협업을 통해 낯선 업무에 적응했습니다.
+- [Archive. · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/index.md): A collection of my work, projects, studies and experiences.
+- [Projects · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/projects/index.md): 대학 프로젝트, 개인 개발과 공모전에서 만들고 해결한 것들.
+- [Side Projects & Competitions · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/projects/side-projects/index.md): 직접 개발한 서비스와 경험을 글로 정리한 활동.
+- [청년정책알리미 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/projects/side-projects/youth-policy.md): 정책 데이터를 모으고 검증·배포하는 흐름과 팀의 통합·제출 과정을 맡았습니다.
+- [University Projects · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/projects/university/index.md): 로봇 데이터와 임베디드 시스템을 다루며 수행한 팀 프로젝트.
+- [Robot Data Collection & Visualization · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/projects/university/robot-data.md): 실제 협동로봇과 가상 공정의 데이터를 처리하고 Web UI로 시각화하는 팀 프로젝트에 참여했습니다.
+- [Study · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/study/index.md): 기초 개념을 익히고, 실제로 궁금했던 질문을 따라가는 학습 기록.
+- [Reading & Writing · Dongchan Shin Archive](https://dongchan-portfolio.me/text/archive/writing/index.md): 읽으며 남긴 메모와 경험을 돌아보며 쓴 글.
+- [신동찬 · Robotics Software Engineer](https://dongchan-portfolio.me/text/index.md): 로보틱스 소프트웨어 엔지니어 신동찬의 소개, 핵심 역량, 사용 장비와 AI를 활용한 개발 경험.
+- [Tesollo Hand 학습 파이프라인 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/projects/dg4f.md): 핸드 데이터 수집·ACT 학습·출력 복원과 실제 핸드 추론을 연결했습니다.
+- [Docker·장치 연동 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/projects/docker.md): SpaceMouse·카메라의 직접 접근과 Vive·Quest/Pico의 Host VR bridge를 Docker 배포에 연동·안정화했습니다.
+- [Robot Replay·안전 로직 · Dongchan Shin Archive](https://dongchan-portfolio.me/text/projects/replay.md): HDF5 기록을 로봇에서 재생하고, 초기 자세 정렬과 본 재생을 분리했습니다.
+- [Projects · 신동찬](https://dongchan-portfolio.me/text/projects.md): MiMicX에서 확장한 로봇 핸드 학습 파이프라인, 실로봇 Replay, Docker 장치 연동 사례.
