@@ -390,6 +390,78 @@ Phone
 
 ---
 
+원본: https://dongchan-portfolio.me/work-experience.html
+
+DONGCHAN SHIN · PORTFOLIO
+
+# Work Experience
+
+Neuromeka · 2025.12 ~ 2026.06 · 경북 포항
+
+Robotics Software Engineering Intern
+
+미래핵심연구부문 / Platform그룹 · 텔레오퍼레이션 및 모방학습 플랫폼 기능 개발·검증
+
+## My Role
+
+- MiMicX 모방학습 플랫폼 기능 개발·안정화
+
+- 텔레오퍼레이션 장치·로봇 연동
+
+- 데이터 수집·학습·추론 파이프라인 확장
+
+- 로봇자동화 과제·시연 지원
+
+- 제품 릴리즈 테스트·기술 문서 정비
+
+[ 01
+
+Multi-Robot Platform Expansion
+
+### 다중 로봇 지원을 위한 플랫폼 확장
+
+참가 목록·로봇 식별자를 기준으로 N대 확장을 고려해 개발하고, 독립 제어기 기반 로봇 2대에서 명령·상태·데이터 흐름을 검증했습니다.
+
+Python · Linux · Multi-Robot · Data Pipeline
+사례 자세히 보기 ↗
+화면 선택 A ↓참가 로봇 A + B↓ 각 로봇으로 실행
+변경 후 구조 ↗ ](https://dongchan-portfolio.me/projects/multi-robot.html) [ 02
+
+Real-Robot Replay
+
+### Replay 기능 개발 및 검증
+
+저장된 Episode의 실행 로직·API·UI를 개발하고 초기 정렬과 오른팔 정지 문제를 수정해 실로봇에서 확인했습니다.
+
+Replay · State Management · Debugging
+사례 자세히 보기 ↗
+목표 1회 전송  도달까지 유지
+명령 방식 비교 · 개념도 ↗ ](https://dongchan-portfolio.me/projects/replay.html) [ 03
+
+Dual-Arm KPI Validation
+
+### 양팔 테스트베드 및 KPI 검증 과제
+
+양팔 동기 오차와 Master–Slave 추종 지연을 구분해 반복 측정하고 기준 충족 여부를 분석했습니다.
+
+Dual-Arm · RMSE · Latency
+사례 자세히 보기 ↗
+동기 오차 0.615 mm  지연 RMSE · X / Z 46.675 / 47.694 ms · KPI 달성
+KPI 결과 ↗ ](https://dongchan-portfolio.me/projects/kpi.html) [ 04
+
+Imitation Learning Pipeline
+
+### 모방학습 데이터 개선 및 정책 실행
+
+v1 고정 10회 → v2 무작위 50회 → v3 조건별 100회로 수집 전략을 개선해, 학습 Loss 0.0037과 실로봇 성공률 90%를 확인했습니다.
+
+Teleoperation · ACT · Robot Rollout
+사례 자세히 보기 ↗
+실제 수집 배치 예시 ↗ ](https://dongchan-portfolio.me/projects/imitation.html)
+
+
+---
+
 원본: https://dongchan-portfolio.me/projects/multi-robot.html
 
 [← Work Experience](https://dongchan-portfolio.me/work-experience.html)  CASE STUDY
